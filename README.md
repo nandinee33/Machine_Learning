@@ -1,6 +1,6 @@
 # Machine_Learning
 
-#### Python Basics:
+## Python Basics:
   - operators
   - list
   - tupple
@@ -8,7 +8,7 @@
   - sets
   - python programs
   
-#### Python Library:
+## Python Library:
   - Numpy
   - Pandas
   - Matplotlib
