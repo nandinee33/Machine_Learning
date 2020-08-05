@@ -9,6 +9,6 @@
   - python programs
   
 #### Python Library:
-    - Numpy
-    - Pandas
-    - Matplotlib
+  - Numpy
+  - Pandas
+  - Matplotlib
