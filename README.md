@@ -12,3 +12,10 @@
   - Numpy
   - Pandas
   - Matplotlib
+  
+## Data Cleaning Using Pandas
+
+## Linear Regression
+
+## Gradient Descent
+
