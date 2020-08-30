@@ -19,3 +19,7 @@
 
 ## Gradient Descent
 
+## Multivariate Regression
+
+## Logistic Regression
+
