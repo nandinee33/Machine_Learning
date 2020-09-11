@@ -23,3 +23,9 @@
 
 ## Logistic Regression
 
+## K-Fold Cross Validation
+
+## ROC and PRC Curve
+
+## K-Nearest Neighbour
+
